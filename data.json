@@ -1,0 +1,14 @@
+{
+  "seller": {
+    "name": "安徽长天资产",
+    "rating":100
+  },
+  "goods": {
+      "name":"程序员",
+      "amount": 4,
+      "list":[
+        {"name":"王伟","age":18,"sex":"男"},
+        {"name":"李强","age":28,"sex":"男"}
+      ]
+  }
+}

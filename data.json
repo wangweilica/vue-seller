@@ -1,7 +1,21 @@
 {
   "seller": {
-    "name": "安徽长天资产",
-    "rating":100
+    "description":"蜂鸟专送",
+    "deliveryTime":10,
+    "brand": "",
+    "avatar": "static/image/avatar01.png",
+    "name": "汉堡王（芜湖路店）",
+    "rating":100,
+    "supports": [
+      {
+        "type": 0,
+        "description": "在线支付满400减50"
+      },
+      {
+        "type": 1,
+        "description": "VC全场8折"
+      }
+    ]
   },
   "goods": {
       "name":"程序员",
